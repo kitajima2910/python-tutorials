@@ -1,0 +1,6 @@
+print('-' * 20)
+print('{0}^2 + {1}x + {2} = 0'.format(5, 3, 1))
+print('{0:<10} Test'.format('Python'))
+print('{0:>6}'.format('Py'))
+print('{0:>6}'.format('Python'))
+print('{0:>6}'.format('Python'))
