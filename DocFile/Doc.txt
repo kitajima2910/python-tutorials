@@ -1,0 +1,3 @@
+username chào
+password
+email
